@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android14Features</string>
+    <string name="screen_shot_detection_api">Explore ScreenShot Detection Api</string>
+    <string name="custom_share_intent_sheet">Custom Share Intent Sheet</string>
+    <string name="grammatical_inflection_api">Grammatical Inflection Api</string>
+    <string name="regional_preferences">Regional Preferences</string>
+    <string name="back_gesture_preview">Back Gesture Preview</string>
+    <string name="photos_or_videos_permission_flow">Photos or Videos Permission Flow</string>
 </resources>
