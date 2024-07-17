@@ -15,5 +15,27 @@ class MainActivity : ComponentActivity() {
         binding?.apply {
             setContentView(root)
         }
+        setListeners()
+    }
+
+    private fun setListeners() {
+        binding?.tvScreenShotDetectionApi?.setOnClickListener {
+
+        }
+        binding?.tvCustomShareIntent?.setOnClickListener {
+
+        }
+        binding?.tvGrammaticalInflection?.setOnClickListener {
+
+        }
+        binding?.tvGesturePreview?.setOnClickListener {
+
+        }
+        binding?.tvRegionalPreference?.setOnClickListener {
+
+        }
+        binding?.tvPermissionFlow?.setOnClickListener {
+
+        }
     }
 }

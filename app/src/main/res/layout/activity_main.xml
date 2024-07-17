@@ -11,25 +11,30 @@
         android:text="@string/screen_shot_detection_api"
         android:layout_marginTop="@dimen/button_top_margin" />
     <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvCustomShareIntent"
         style="@style/TextViewBold"
         android:text="@string/custom_share_intent_sheet"
         android:layout_marginTop="@dimen/button_top_margin" />
 
     <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvGrammaticalInflection"
         style="@style/TextViewBold"
         android:text="@string/grammatical_inflection_api"
         android:layout_marginTop="@dimen/button_top_margin" />
     <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvRegionalPreference"
         style="@style/TextViewBold"
         android:text="@string/regional_preferences"
         android:layout_marginTop="@dimen/button_top_margin" />
 
     <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvGesturePreview"
         style="@style/TextViewBold"
         android:text="@string/back_gesture_preview"
         android:layout_marginTop="@dimen/button_top_margin" />
 
     <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvPermissionFlow"
         style="@style/TextViewBold"
         android:text="@string/photos_or_videos_permission_flow"
         android:layout_marginTop="@dimen/button_top_margin" />
